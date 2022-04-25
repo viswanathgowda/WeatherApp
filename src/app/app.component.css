@@ -1,0 +1,86 @@
+.full {
+    width: 39vw;
+    height: 45vh;
+    margin-top: 20px;
+    margin-left: 22px;
+  }
+  .location-link{
+    color: brown;
+    margin: 10px;
+    background-color:rgb(243, 240, 255);
+    padding: 20px;
+    font-size: 30px;
+  }
+.weatherdata{
+    padding: 10px;
+    margin: 10px;
+    background-color:rgb(243, 240, 255) ;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    font-size: 20px;
+    float: right;
+    border: 2px solid black;
+    height: 276px;
+}
+.heading{
+    font-size: 40px;
+    color: blue;
+    /* background-color: beige;
+    padding: 10px;
+    margin: 4px; */
+}
+.weatherdesc{
+  color: red;
+  padding: 5px;
+}
+.temp{
+    color: red;
+    padding: 5px;
+}
+.wind{
+    color: red;
+    padding: 5px;
+}
+.pressure{
+    color: red;
+    padding: 5px;  
+}
+.selectedLocation{
+    color: white;
+    padding: 5px;
+    background-color: green;
+    margin: 2px; 
+    border-radius: 4px; 
+}
+.days{
+    background-color: aqua;
+    margin: 10px;
+    padding: 10px;
+    color: brown;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    font-size: 20px;
+}
+.weather{
+    margin-top: 20px;
+    margin-left: -4px;
+}
+.location{
+    background-color: blue;
+    padding: 10px;
+    margin: 5px;
+    color: white;
+    
+}
+.deletebutton{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+.weeklystatus{
+    float: right;
+}
+
+
