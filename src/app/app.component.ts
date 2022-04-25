@@ -17,7 +17,7 @@ export class AppComponent {
   public locationsList: any = [];
   public weatherdata: any = [];
 
-  var = 'vishwa';
+  var = 'ram';
   latd: number = 0;
   langtd: number = 0;
   latitude: any;
